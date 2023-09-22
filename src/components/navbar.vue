@@ -51,7 +51,7 @@
 
   
   @media (max-width: 1024px) {
-    /* Tablet View */
+  
   .container {
     font-size: 16px;
     flex-direction: column;
